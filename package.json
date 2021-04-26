@@ -1,0 +1,16 @@
+{
+  "name": "com.albar.animationuistarterkit",
+  "version": "0.0.3",
+  "displayName": "Animation UI Starter Kit",
+  "type": "Starter Kit",
+  "keywords": [
+    "ui",
+    "2d",
+    "animation",
+    "starter-kit"
+  ],
+  "author": {
+    "name": "Albar"
+  },
+  "description": "Head-start your game development!"
+}
